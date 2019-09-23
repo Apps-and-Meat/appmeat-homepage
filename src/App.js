@@ -1,22 +1,23 @@
-import React from 'react';
-import logo from './logo.svg';
+import React from 'react';  
+import sheep from './sheep.svg';
 import './App.css';
 
 function App() {
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+
+      <img src={sheep} alt="logo"/>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://se.linkedin.com/in/karlsoderberg?trk=profile-badge"
           target="_blank"
+          color="white"
           rel="noopener noreferrer"
         >
-          Learn React
+          No meat here yet. 
+          Go vegetarian and hire me for iOS development
         </a>
       </header>
     </div>
