@@ -16,7 +16,7 @@ function App() {
           color="white"
           rel="noopener noreferrer"
         >
-          No meat here yet. 
+          No meat here yet.
           Go vegetarian and hire me for iOS development
         </a>
       </header>
